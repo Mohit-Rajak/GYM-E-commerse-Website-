@@ -23,10 +23,6 @@ The website also includes a **navigation bar** for easy access to all pages.
 
    ```bash
    git clone https://github.com/Mohit-Rajak/GYM-E-commerse-Website-.git
-Open the project folder:
-
-
-
 
 Usage
 Home: Contains the introduction and basic information about the gym.
